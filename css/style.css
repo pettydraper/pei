@@ -61,15 +61,17 @@ p {
 /*-- Sign Styles --*/
 
 .sign {
+  margin-top: 10%;
+  margin-bottom: 2%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-font-family: 'Bungee Shade', cursive;
+  font-family: 'Bungee Shade', cursive;
   font-size: 5.6rem;
   text-align: center;
   line-height: 1;
-  color: #c6e2ff;
+  color: #f7149c;
   text-shadow:
     0 0 6px rgba(202,228,225,0.92),
     0 0 30px rgba(202,228,225,0.34),
