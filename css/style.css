@@ -74,7 +74,12 @@ p {
   text-align: center;
   line-height: 1;
   color: #c6e2ff;
-  animation: neon .08s ease-in-out infinite alternate;}
+    0 0 6px rgba(202,228,225,0.92),
+    0 0 30px rgba(202,228,225,0.34),
+    0 0 12px rgba(30,132,242,0.52),
+    0 0 21px rgba(30,132,242,0.92),
+    0 0 34px rgba(30,132,242,0.78),
+    0 0 54px rgba(30,132,242,0.92);}
 
 /*-- Animation Keyframes --*/
 
