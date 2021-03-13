@@ -78,7 +78,7 @@ h1 {
   flex: 1;
   line-height: .75;
   margin: auto;
-  color: ##FF33A8;
+  color: #FF33A8;
   text-align: center;
   transform: scaleX(var(--scale, 1));
   animation: glitch-p 11s infinite alternate;
