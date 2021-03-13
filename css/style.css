@@ -6,6 +6,7 @@ body {
     font-weight: 300;
     color: #FFF;
     background-color: black;
+    min-height: 100vh;
     }
 
 p {
@@ -70,18 +71,10 @@ p {
   box-sizing: border-box;
 }
 
-body {
+h1 {
   font-family: 'Bungee Shade', cursive;//'Kanit', sans-serif;
   font-size: var(--f);
-  
   background-color: var(--bg);
-  display: flex;
-  min-height: 100vh;
-  margin: 0;
-  overflow: hidden;
-}
-
-h1 {
   flex: 1;
   line-height: .75;
   margin: auto;
@@ -89,6 +82,8 @@ h1 {
   text-align: center;
   transform: scaleX(var(--scale, 1));
   animation: glitch-p 11s infinite alternate;
+  display: flex;
+  overflow: hidden;
   
   &::before,
   &::after {
