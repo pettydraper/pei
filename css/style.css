@@ -1,14 +1,21 @@
 body {
-    backgroound-color: #000;
+    font-family: 'Lato', arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 300;
+    color: #2e2e2e;
+    background-color: black;
     }
 
 h1 {
     text-align: center;
     color: #FF33A8;
     font-size: 30px;
-    font-family: garamond;}
+    font-family: garamond;
+    }
 
-p {font-color: #fff;}
+p {
+    font-color: #fff;}
 
 /* Style all social media icons */
 .fa {
@@ -29,13 +36,13 @@ p {font-color: #fff;}
 
 /* Instagram */
 .fa-instagram {
-  background: #FF33A8;
+  background: pink;
   color: white;
 }
 
 /* Twitter */
 .fa-twitter {
-  background: #55ACEE;
+  background: pink;
   color: white;
 }
     
