@@ -1,15 +1,15 @@
 body {
     backgroound: #000;
-    font-family: 'Lato', arial, sans-serif;
+    font-family: 'Archivo', sans-serif;
     font-size: 16px;
     line-height: 1.5;
     font-weight: 300;
-    color: #2e2e2e;
+    color: #FFF;
     background-color: black;
     }
 
 h1 {
-    text-align: center;
+    margin: 15%;
     color: #FF33A8;
     font-size: 60px;
     font-family: 'Bungee Shade', cursive;}
