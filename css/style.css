@@ -78,6 +78,7 @@ p {
     line-height: 1;
     color: #c6e2ff;
     animation: neon .08s ease-in-out infinite alternate;
+    display:inline-block;
   }
 
 }
