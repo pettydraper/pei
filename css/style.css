@@ -61,15 +61,11 @@ p {
 /*-- Sign Styles --*/
 
 .sign {
-  min-height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  font-family: "Vibur", cursive;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+font-family: 'Bungee Shade', cursive;
   font-size: 5.6rem;
   text-align: center;
   line-height: 1;
