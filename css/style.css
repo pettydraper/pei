@@ -1,10 +1,58 @@
 body {
+<<<<<<< HEAD
     backgroound: #000;
+=======
+    font-family: 'Lato', arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    font-weight: 300;
+    color: #2e2e2e;
+    background-color: black;
+>>>>>>> c0994283b0d03e41ce38ef428d5c37577ecc0f2e
     }
 
-.h1 {
+h1 {
     text-align: center;
+<<<<<<< HEAD
     font-color: #FF33A8;
     font-size: 30px;
     font-family: garamond;}
+=======
+    color: #FF33A8;
+    font-size: 30px;
+    font-family: garamond;
+    }
+
+p {
+    font-color: #fff;}
+
+/* Style all social media icons */
+.fa {
+    padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Instagram */
+.fa-instagram {
+  background: pink;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: pink;
+  color: white;
+}
+>>>>>>> c0994283b0d03e41ce38ef428d5c37577ecc0f2e
     
