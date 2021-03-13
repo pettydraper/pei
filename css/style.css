@@ -71,4 +71,9 @@ p {
   font-size: 5.6rem;
   text-align: center;
   line-height: 1;
-  color: #f7149c;}
+  color: #f7149c;
+  text-shadow:
+    0 0 12px rgba(179,32,106,0.52),
+    0 0 21px rgba(179,32,106,0.92),
+    0 0 34px rgba(179,32,106,0.78),
+    0 0 54px rgba(179,32,106,0.92);}
