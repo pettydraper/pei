@@ -17,6 +17,15 @@ h1 {
 p {
     font-color: #fff;}
 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: #FFF;
+  text-align: center;
+}
+
 /* Style all social media icons */
 .fa {
     padding: 30px;
