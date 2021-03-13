@@ -1,8 +1,8 @@
 body {
-    backgroound-color: #000;
+    backgroound-color: black;
     }
 
-.h1 {
+h1 {
     text-align: center;
     font-color: #FF33A8;
     font-size: 30px;
@@ -28,7 +28,7 @@ p {font-color: #fff;}
 /* Set a specific color for each brand */
 
 /* Instagram */
-.fa-insta {
+.fa-instagram {
   background: ##FF33A8;
   color: white;
 }
