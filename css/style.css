@@ -58,12 +58,6 @@ p {
     
 /* SIGN */
 
-h1 {font-family: "Vibur", cursive;
-  font-size: 1rem;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;}
-
 /*-- Sign Styles --*/
 
 .sign {
@@ -72,6 +66,11 @@ h1 {font-family: "Vibur", cursive;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  font-family: "Vibur", cursive;
+  font-size: 1rem;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 
   &__word {
     font-size: 5.6rem;
